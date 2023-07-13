@@ -5,17 +5,17 @@
 INHERIT: ./base.yml
 
 # Project Information
-site_name: "CognitiveArchitectHandbookName"
-site_url: "https://pages.github.ibm.com/CognitiveArchitectRepoParent/CognitiveArchitectRepoDir/"
-site_description: "CognitiveArchitectSiteDescription"
-site_author: "CognitiveArchitectSiteAuthor"
+site_name: "pritha_demo"
+site_url: "https://pages.github.ibm.com/pritha-intelliB/demoAI/"
+site_description: "pritha_demo"
+site_author: "pritha-intelliB"
 
 # Repository Information
-repo_name: 'CognitiveArchitectRepoParent/CognitiveArchitectRepoDir'
-repo_url: 'https://github.ibm.com/CognitiveArchitectRepoParent/CognitiveArchitectRepoDir'
+repo_name: 'pritha-intelliB/demoAI'
+repo_url: 'https://github.ibm.com/pritha-intelliB/demoAI'
 
 # Copyright
-#copyright: <a href="/about/">CognitiveArchitectSiteAuthor</a>.
+#copyright: <a href="/about/">pritha-intelliB</a>.
 
 # Customize Handbook Template information visibility
 oic_handbook:
@@ -57,8 +57,8 @@ markdown_extensions:
       repo_url_shortener: true
       repo_url_shorthand: false
       social_url_shorthand: true
-      user: CognitiveArchitectIBMGitHub
-      repo: CognitiveArchitectRepoParent/CognitiveArchitectRepoDir
+      user: pritha-intelliB
+      repo: pritha-intelliB/demoAI
   toc:
       permalink: true
       toc_depth: 3
@@ -69,13 +69,13 @@ plugins:
       tags_file: tags.md
 #   # Configure the PDF export plugin - see https://github.com/zhaoterryy/mkdocs-pdf-export-plugin
 #   with-pdf: # This creates a single PDF document for the whole site
-#       author: CognitiveArchitectSiteAuthor
-#       copyright: Copyright &copy; CognitiveArchitectSiteAuthor
+#       author: pritha-intelliB
+#       copyright: Copyright &copy; pritha-intelliB
 #       cover: true
 #       back_cover: false
 #       #
-#       cover_title: CognitiveArchitectHandbookName
-#       cover_subtitle: CognitiveArchitectSiteDescription
+#       cover_title: pritha_demo
+#       cover_subtitle: pritha_demo
 #       cover_logo: 'theme/logo-ibm-dark.png'
 #       #custom_template_path: TEMPLATES PATH
 #       #
@@ -101,7 +101,7 @@ plugins:
 #       # render_js: true
 #       #headless_chrome_path: headless-chromium
 #       #
-#       output_path: ./pdf/CognitiveArchitectRepoDir.pdf
+#       output_path: ./pdf/demoAI.pdf
 #       enabled_if_env: ENABLE_PDF_EXPORT
 #       #
 #       debug_html: true
